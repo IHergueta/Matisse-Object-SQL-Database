@@ -1,0 +1,15 @@
+#
+# Generated with Matisse Schema Definition Language 9.1.12
+# Generation date: Fri Jan 15 12:27:44 2021
+#
+# Mapping of Java classes and indexes to the corresponding database schema objects
+#
+gest_proyectos.Proyecto = gest_proyectos.Proyecto
+gest_proyectos.Empleado = gest_proyectos.Empleado
+gest_proyectos.Empleado_pk = gest_proyectos.Empleado_pk
+gest_proyectos.Empleado_i_nom_emp = gest_proyectos.Empleado_i_nom_emp
+gest_proyectos.EmpleadoPlantilla = gest_proyectos.EmpleadoPlantilla
+gest_proyectos.EmpleadoPlantilla_i_dni = gest_proyectos.EmpleadoPlantilla_i_dni
+gest_proyectos.EmpleadoPlantilla_i_nom_emp = gest_proyectos.EmpleadoPlantilla_i_nom_emp
+gest_proyectos.DatosProfesionales = gest_proyectos.DatosProfesionales
+gest_proyectos.Empleado_DatosProf_pk = gest_proyectos.Empleado_DatosProf_pk
